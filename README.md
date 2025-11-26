@@ -1,22 +1,101 @@
-# Hi, I'm Shrish 👋
+<h1 align="center">Hi 👋, I'm Shrish Tiwari</h1>
+<h3 align="center">Senior Software Engineer (VP) • Distributed Systems • Payments • Cloud • Banking</h3>
 
-I am a Software Engineer (VP) with 11+ years of experience building distributed, cloud-native systems across 
-payments, banking, and global retail organizations.
+---
 
-### 💻 Tech Stack
-- Java, Kotlin
-- Kafka Streams, Event-Driven Architecture
-- AWS (ECS, EC2, Lambda)
-- Spring Boot, Microservices
-- Terraform, GitLab CI/CD, Docker
-- TLS/mTLS, Certificate Automation
+## 🔥 About Me  
+I am a Software Engineer (VP) with **11+ years of experience** building large-scale, distributed, cloud-native systems across  
+**payments, digital banking, and global retail platforms**.
 
-### 🏦 What I Work On
-- High-throughput payment platforms (~$1T/day)
-- ISO20022 modernization and FEDWire
-- Cloud-native microservices
-- Digital banking platform engineering (Marcus)
+I specialize in designing highly available, low-latency microservices and event-driven architectures using **Java**, **Kafka Streams**,  
+**AWS**, and **Spring Boot**, with deep expertise in financial messaging, ISO20022, and secure integrations.
 
-### 📫 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/shrishtiwari
-- Email: shrish.tiwari90@gmail.com
+My work has spanned:
+- 💸 **High-throughput payment platforms** processing **$1T+ daily volume**  
+- 🔄 **ISO20022 modernization** and FEDWire message transformations  
+- ☁️ **Cloud-native platform engineering** using AWS, Terraform & Docker  
+- 🧵 **Event-driven systems** with Kafka Streams  
+- 🛡 **TLS/mTLS security**, certificate automation, and regulated data flows  
+- 🏦 **Digital banking engineering** (Marcus by Goldman Sachs)  
+- 👥 **Leading Agile engineering teams** & driving engineering best practices  
+
+---
+
+## 🛠 Tech Stack
+
+### **Languages**
+- Java • Kotlin • SQL
+
+### **Backend & Distributed Systems**
+- Kafka • Kafka Streams • Spring Boot • Event-Driven Architecture  
+- Microservices • REST • Reactive Programming
+
+### **Cloud & DevOps**
+- AWS (ECS, EC2, Lambda, S3, IAM, VPC)  
+- Docker • Terraform • CloudFormation  
+- GitLab CI/CD • Jenkins
+
+### **Security**
+- TLS • mTLS • JKS ↔ PFX automation  
+- Secure API Design • Compliance-ready architectures
+
+### **Observability & Monitoring**
+- Prometheus • Grafana • Splunk  
+- Distributed Tracing • Structured Logging
+
+---
+
+## 🚀 What I'm Currently Working On
+- 🌍 Engineering platform components for **Marcus Bank – Ireland**  
+- 🎯 Designing secure, compliant banking flows & regulatory-ready integrations  
+- 🔁 Improving event-driven patterns for payments & financial rail connectivity  
+- 🛠 Architecting reusable Spring Boot starters & shared frameworks  
+
+---
+
+## 📌 Featured Projects (Public)
+> *Add links when ready — I can generate project descriptions too.*
+
+- 🔗 **URL Shortener (High Concurrency + Distributed Design)**
+- 💬 **Anonymous Chat App (AWS + Terraform + ECS)**
+- 📡 **Kafka Streams Pipeline (Payments Transformation Engine)**
+- 🧩 **Event-Driven Caching Layer (Consistent Hashing, Java)**
+
+---
+
+## 🏆 Professional Snapshot
+- 🔹 Tech Lead for **Network Connector Framework (NCF)** @ Goldman Sachs  
+- 🔹 Designed ISO20022-compliant FEDWire payment transformations  
+- 🔹 Built cloud-native banking & payment services across multiple rails  
+- 🔹 Established & led **8-engineer Agile team** @ Nike  
+- 🔹 Migrated legacy monoliths → microservices + containerized pipelines  
+- 🔹 Delivered global-scale services with high reliability and observability  
+
+---
+
+## 📊 GitHub Stats (Optional)
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+</p>
+
+> Replace `YOUR_USERNAME` with your GitHub username.
+
+---
+
+## 👀 Looking To Collaborate On
+- Distributed systems & event-driven architectures  
+- Open-source microservices frameworks  
+- Payment systems & ISO20022 tooling  
+- Developer tooling & platform engineering  
+
+---
+
+## 🌐 Connect With Me  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/shrishtiwari  
+- ✉️ **Email:** shrish.tiwari90@gmail.com  
+
+---
+
+⭐ **If you like my profile README, consider giving it a star!** ⭐
