@@ -63,17 +63,6 @@ My work has spanned:
 
 ---
 
-## 📊 GitHub Stats (Optional)
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Shrish90&show_icons=true&theme=tokyonight"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrish90&layout=compact&theme=tokyonight"/>
-</p>
-
-> Replace `YOUR_USERNAME` with your GitHub username.
-
----
-
 ## 👀 Looking To Collaborate On
 - Distributed systems & event-driven architectures  
 - Open-source microservices frameworks  
