@@ -53,16 +53,6 @@ My work has spanned:
 
 ---
 
-## 📌 Featured Projects (Public)
-> *Add links when ready — I can generate project descriptions too.*
-
-- 🔗 **URL Shortener (High Concurrency + Distributed Design)**
-- 💬 **Anonymous Chat App (AWS + Terraform + ECS)**
-- 📡 **Kafka Streams Pipeline (Payments Transformation Engine)**
-- 🧩 **Event-Driven Caching Layer (Consistent Hashing, Java)**
-
----
-
 ## 🏆 Professional Snapshot
 - 🔹 Tech Lead for **Network Connector Framework (NCF)** @ Goldman Sachs  
 - 🔹 Designed ISO20022-compliant FEDWire payment transformations  
@@ -76,8 +66,8 @@ My work has spanned:
 ## 📊 GitHub Stats (Optional)
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Shrish90&show_icons=true&theme=tokyonight"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrish90&layout=compact&theme=tokyonight"/>
 </p>
 
 > Replace `YOUR_USERNAME` with your GitHub username.
