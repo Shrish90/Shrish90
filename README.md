@@ -24,7 +24,7 @@ My work has spanned:
 ## 🛠 Tech Stack
 
 ### **Languages**
-- Java • Spring • Python
+- Java • Kotlin • Python
 
 ### **Backend & Distributed Systems**
 - Kafka • Kafka Streams • Spring Boot • Event-Driven Architecture  
@@ -36,7 +36,7 @@ My work has spanned:
 - GitLab CI/CD • Jenkins
 
 ### **Security**
-- TLS • mTLS • JKS ↔ PFX automation  
+- TLS • mTLS • JKS ↔ PKCS12
 - Secure API Design • Compliance-ready architectures
 
 ### **Observability & Monitoring**
