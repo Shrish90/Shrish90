@@ -24,7 +24,7 @@ My work has spanned:
 ## 🛠 Tech Stack
 
 ### **Languages**
-- Java • Kotlin • SQL
+- Java • Spring • Python
 
 ### **Backend & Distributed Systems**
 - Kafka • Kafka Streams • Spring Boot • Event-Driven Architecture  
